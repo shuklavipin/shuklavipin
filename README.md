@@ -14,11 +14,11 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: Java / Python / JavaScript (edit as per your stack)
-- ⚙️ Backend: Spring Boot / Node.js / APIs
-- 🌐 Frontend: React / HTML / CSS
+- 💻 Languages:  JavaScript / Python / Java
+- ⚙️ Backend: Java / SharePoint / APIs
+- 🌐 Frontend: Angular / HTML / CSS
 - 🛢️ Databases: MySQL / MongoDB
-- ☁️ Tools & Cloud: Git, Docker, AWS (edit based on reality)
+- ☁️ Tools & Cloud: Git, Docker, AWS 
 
 ---
 
@@ -31,8 +31,8 @@
 ---
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (your email)
+- 💼 LinkedIn: 
+- 📧 Email: vipin.live123456@gmai;.com
 
 ---
 
